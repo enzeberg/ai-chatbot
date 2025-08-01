@@ -24,7 +24,7 @@
 ### 安装依赖
 
 ```bash
-git clone <YOUR_GIT_URL>
+git clone https://github.com/enzeberg/ai-chatbot.git
 
 cd ai-chatbot
 
