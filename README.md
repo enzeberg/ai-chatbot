@@ -17,7 +17,6 @@
 - **样式框架**: Tailwind CSS
 - **AI SDK**: Vercel AI SDK
 - **状态管理**: TanStack Query
-- **路由**: react-router-dom
 
 ## 快速开始
 
