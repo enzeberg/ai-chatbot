@@ -37,7 +37,7 @@ export const ChatInput = ({ onSendMessage, isLoading, onStopGenerating }: ChatIn
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={handleKeyDown}
-              placeholder="Ask me anything..."
+              placeholder="Say something..."
               className={cn(
                 "min-h-[44px] max-h-32 resize-none rounded-xl border-chat-border",
                 "bg-chat-input-background text-foreground placeholder:text-muted-foreground",
